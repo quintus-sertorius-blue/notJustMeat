@@ -13,15 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just Meat
-email: michael@bitstein.org
+title: The Danger of Carnivore & Keto Diets
+email: quintus.sertorius.blue@gmail.com
 description: >-
-  Carnivorous eating, paleolithic ketogenic diet and medicine, and zero carb
-  lifestyle. Don’t bother with vegetables. Just eat meat.
-baseurl: ""
-url: "https://justmeat.co"
-twitter_username: bitstein
-github_username:  bitstein
+  While Carnivore and Keto are potent elimination diet, there might be serious side effects to consider.
+baseurl: "/"
+url: ""
+twitter_username: BlueSertorius
+github_username:  BlueSertorius
 
 markdown: kramdown
 
