@@ -6,8 +6,6 @@ layout: home
 * [Hans Amato & Mike Fave series](https://www.youtube.com/channel/UCi1TIaHvuEpZ3f_eb3cWwGQ)
     * [Problems with the carnivore diet Pt 1 - (Pros, cons, side effects, glucose deficiency and more)](https://www.youtube.com/watch?v=pCuJ-h91tpE) (Mike Fave & Hans Amato)
     * [Problems with the carnivore diet Pt 2 - (calcium, potassium and more)](https://www.youtube.com/watch?v=ihByfIEDLXQ) (Mike Fave & Hans Amato)
-    * [How to reintroduce carbs after Carnivore/Keto Pt 1](https://www.youtube.com/watch?v=XASw79e2wfg) (Mike Fave & Hans Amato)
-    * [How to reintroduce carbs after Carnivore/Keto Pt 2 - FODMAP](https://www.youtube.com/watch?v=3NByGzyF4h4) (Mike Fave & Hans Amato)
 * [Danny Roddy, comparing the Bioenergetic approach vs Carnivore](https://www.youtube.com/watch?v=dDNMkpTV-AM) (Danny Roddy)
 * [Kyle Mamounis, downside of keto & low carb](https://www.youtube.com/watch?v=YF76CpYLvt4) (Strong Sistas)
 * [Elliot Overton](https://www.eonutrition.co.uk/)
@@ -15,6 +13,23 @@ layout: home
     * [Keto/Carnivore Dandruff, Dry Skin & Seborrheic Dermatitis Part 2: Biotin Deficiency](https://www.youtube.com/watch?v=KekAIE6umdY) (Elliot Overton)
     * [When Carnivore Is Not Enough: Case Studies of Supplementation](https://www.youtube.com/watch?v=kAGCyW4GBuU) (Elliot Overton)
     * [Chronic Diarrhea On Carnivore Diet? Excess Bile, FXR & Inflammation](https://www.youtube.com/watch?v=xjWSF8V1H00) (Elliot Overton)
+
+### Blood Sugar and Carbs
+
+ * [Discussing blood sugar: how to re-introduce carbs back on a carnivore or keto diet](https://www.youtube.com/watch?v=EFpPDB_FjdI) (Mike Fave & Hans Amato)
+ * [Discussing blood sugar (part 2): how to re-introduce carbs back on a carnivore or keto diet](https://www.youtube.com/watch?v=CrNg8pW8w4g) (Mike Fave & Hans Amato)
+ * [https://www.youtube.com/watch?v=r0iy7pJaOiI](https://www.youtube.com/watch?v=r0iy7pJaOiI) (Mike Fave & Hans Amato)
+
+### Reintroducing Carbs
+
+* [How to reintroduce carbs after Carnivore/Keto Pt 1](https://www.youtube.com/watch?v=XASw79e2wfg) (Mike Fave & Hans Amato)
+* [How to reintroduce carbs after Carnivore/Keto Pt 2 - FODMAP](https://www.youtube.com/watch?v=3NByGzyF4h4) (Mike Fave & Hans Amato)
+
+### Intermittent Fasting
+
+* [Effects of intermittent fasting on thyroid, testosterone, estrogen, cortisol, body recomp, etc.](https://www.youtube.com/watch?v=hllY6xpbGTc) (Mike Fave & Hans Amato)
+* [Intermittent fasting & life extension (mTOR, IGF-1, autophagy)](https://www.youtube.com/watch?v=PR0Si2lv9eg) (Mike Fave & Hans Amato)
+* [Is intermittent fasting helpful for the gut?](https://www.youtube.com/watch?v=IO6UnFubU3o) (Mike Fave & Hans Amato)
 
 ## Reddit
 
