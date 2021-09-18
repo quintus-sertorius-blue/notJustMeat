@@ -61,3 +61,10 @@ layout: home
 * [Sugar and Cholesterol, are they really a problem? pt 1.](https://www.youtube.com/watch?v=M_IOfM5emro) (Georgi Dinkov & Strong Sistas)
 * [Sugar and Cholesterol, are they really a problem? pt 2.](https://www.youtube.com/watch?v=yRcXtTjfb-M) (Georgi Dinkov & Strong Sistas)
 
+## Practicioners
+
+* [Mike Fave](https://mikefavenp.com/)[@MikeFaveNP] (https://twitter.com/MikeFaveNP)
+* [Hans Amato](https://men-elite.com/)[@HansAmato] (https://twitter.com/HansAmato)
+* [Jay Feldman](https://linktr.ee/jfwellness)[jfwellness](https://www.instagram.com/jfwellness/?hl=en)
+
+
