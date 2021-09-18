@@ -63,8 +63,8 @@ layout: home
 
 ## Practicioners
 
-* [Mike Fave](https://mikefavenp.com/)- Social: [@MikeFaveNP](https://twitter.com/MikeFaveNP)
-* [Hans Amato](https://men-elite.com/)- Social: [@HansAmato](https://twitter.com/HansAmato)
-* [Jay Feldman](https://linktr.ee/jfwellness)- Social: [jfwellness](https://www.instagram.com/jfwellness/?hl=en)
+* [Mike Fave](https://mikefavenp.com/)- Twitter: [@MikeFaveNP](https://twitter.com/MikeFaveNP)
+* [Hans Amato](https://men-elite.com/)- Twitter: [@HansAmato](https://twitter.com/HansAmato)
+* [Jay Feldman](https://linktr.ee/jfwellness)- Instagram: [jfwellness](https://www.instagram.com/jfwellness/?hl=en)
 
 
