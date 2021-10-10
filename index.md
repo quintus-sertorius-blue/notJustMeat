@@ -81,7 +81,10 @@ Since it is very common in forum like [ZeroCarb](https://www.reddit.com/r/zeroca
 ## Practicioners
 
 * [Mike Fave](https://mikefavenp.com/)- Twitter: [@MikeFaveNP](https://twitter.com/MikeFaveNP)
+* [Danny Roddy](https://www.dannyroddy.com/)- Twitter: [@dannyroddy](https://twitter.com/dannyroddy)
 * [Hans Amato](https://men-elite.com/)- Twitter: [@HansAmato](https://twitter.com/HansAmato)
 * [Jay Feldman](https://linktr.ee/jfwellness)- Instagram: [jfwellness](https://www.instagram.com/jfwellness/?hl=en)
+* [Georgi Dinkov aka Haidut](http://haidut.me/)- Twitter: [@haidut](https://twitter.com/haidut)
+
 
 
