@@ -17,7 +17,7 @@ layout: home
 
 ### Carnivore and Gut Health
 
-* [Meat fermenting in the gut and the microbiome](https://youtu.be/klOMN39kVl0?t=4604) (Mike Fave & Hans Amato) [Link to the Article](https://pubmed.ncbi.nlm.nih.gov/26527169/)
+* [Meat fermenting in the gut and the microbiome](https://youtu.be/klOMN39kVl0?t=4604) (Mike Fave & Hans Amato) - [Link to the Article](https://pubmed.ncbi.nlm.nih.gov/26527169/)
 
 
 ### Blood Sugar and Carbs
