@@ -10,7 +10,7 @@ Since it is very common in forum like [ZeroCarb](https://www.reddit.com/r/zeroca
 
 [Fill out the form and help us build a common knowledge](https://t.co/WLsZBFpedB?amp=1). All the data will be kept anonymous.
 
-**DISCLAIMER: we are not anti-meat. Actually we are very PRO-meat. We are anti-idiocy.**
+**DISCLAIMER: we are not anti-meat. Actually we are very PRO-meat. We are anti dogmatism and metaphysics passed off as "Science".**
 
 ## General Issues
 
