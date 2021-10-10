@@ -2,7 +2,7 @@
 layout: home
 ---
 
-## Tell us your story
+## [Tell us your story](https://t.co/WLsZBFpedB?amp=1)
 
 We are building a repository of real stories around the low carb/keto/carnivore sphere. 
 
