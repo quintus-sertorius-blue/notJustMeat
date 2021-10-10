@@ -4,7 +4,7 @@ layout: home
 
 ## Tell us your story
 
-We are building a repository of real story around the low carb/keto/carnivore sphere. 
+We are building a repository of real stories around the low carb/keto/carnivore sphere. 
 
 Since it is very common in forum like [ZeroCarb](https://www.reddit.com/r/zerocarb/) or FB groups to censor all the negative experience, we want to give people the possibility to tell us the good AND the bad about these diets. The goal is to help as many people as possible find their health while not falling into dogma and quick-fix solutions. 
 
