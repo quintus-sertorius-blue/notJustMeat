@@ -24,7 +24,7 @@ Since it is very common in forum like [ZeroCarb](https://www.reddit.com/r/zeroca
     * [Keto/Carnivore Dandruff, Dry Skin & Seborrheic Dermatitis Part 2: Biotin Deficiency](https://www.youtube.com/watch?v=KekAIE6umdY) (Elliot Overton)
     * [When Carnivore Is Not Enough: Case Studies of Supplementation](https://www.youtube.com/watch?v=kAGCyW4GBuU) (Elliot Overton)
     * [Chronic Diarrhea On Carnivore Diet? Excess Bile, FXR & Inflammation](https://www.youtube.com/watch?v=xjWSF8V1H00) (Elliot Overton)
-
+* [The Dangers of Long- term Ketogenic diets](https://www.youtube.com/watch?v=1VsnQU7Q1jQ) (Paul Saladino)
 
 ### Carnivore and Gut Health
 
