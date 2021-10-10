@@ -1,6 +1,13 @@
 ---
 layout: home
 ---
+
+## Tell us your story
+
+We are building a repository of real story around the low carb/keto/carnivore sphere. Since it is very common in forum like [ZeroCarb](https://www.reddit.com/r/zerocarb/) or FB groups to censor all the negative experience, we want to give people the possibility to tell us the good AND the bad about these diets. The goal is to help as many people as possible find their health while not falling into dogma and quick-fix solutions. [Fill out the form and help us build a common knowledge](https://t.co/WLsZBFpedB?amp=1). All the data will be kept anonymous.
+
+**DISCLAIMER: we are not anti-meat. Actually we are very PRO-meat. We are anti-idiocy.**
+
 ## General Issues
 
 * [Hans Amato & Mike Fave series](https://www.youtube.com/channel/UCi1TIaHvuEpZ3f_eb3cWwGQ)
