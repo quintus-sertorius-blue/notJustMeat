@@ -14,6 +14,12 @@ layout: home
     * [When Carnivore Is Not Enough: Case Studies of Supplementation](https://www.youtube.com/watch?v=kAGCyW4GBuU) (Elliot Overton)
     * [Chronic Diarrhea On Carnivore Diet? Excess Bile, FXR & Inflammation](https://www.youtube.com/watch?v=xjWSF8V1H00) (Elliot Overton)
 
+
+### Carnivore and Gut Health
+
+* [Meat fermenting in the gut and the microbiome](https://youtu.be/klOMN39kVl0?t=4604) (Mike Fave & Hans Amato) [Link to the Article](https://pubmed.ncbi.nlm.nih.gov/26527169/)
+
+
 ### Blood Sugar and Carbs
 
  * [Discussing blood sugar: how to re-introduce carbs back on a carnivore or keto diet](https://www.youtube.com/watch?v=EFpPDB_FjdI) (Mike Fave & Hans Amato)
