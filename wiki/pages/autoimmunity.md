@@ -1,5 +1,5 @@
 ---
-title: Autoimmunity
+title: Pros and Cons of the Carnivore Diet
 ---
 
 ## Summary

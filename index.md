@@ -18,6 +18,7 @@ Since it is very common in forum like [ZeroCarb](https://www.reddit.com/r/zeroca
     * [Problems with the carnivore diet Pt 1 - (Pros, cons, side effects, glucose deficiency and more)](https://www.youtube.com/watch?v=pCuJ-h91tpE) (Mike Fave & Hans Amato)
     * [Problems with the carnivore diet Pt 2 - (calcium, potassium and more)](https://www.youtube.com/watch?v=ihByfIEDLXQ) (Mike Fave & Hans Amato)
 * [Danny Roddy, comparing the Bioenergetic approach vs Carnivore](https://www.youtube.com/watch?v=dDNMkpTV-AM) (Danny Roddy)
+* [The Dangers of Fat Metabolism and PUFA: Why You Don't Want to be a Fat Burner](https://www.youtube.com/watch?v=nGv4JZB2yws) (Kyle Mamounis)
 * [Kyle Mamounis, downside of keto & low carb](https://www.youtube.com/watch?v=YF76CpYLvt4) (Strong Sistas)
 * [Elliot Overton](https://www.eonutrition.co.uk/)
     * [Keto/Carnivore Dandruff, Dry Skin & Seborrheic Dermatitis Part 1: Riboflavin Deficiency](https://www.youtube.com/watch?v=PGo76Ve7_-8) (Elliot Overton)
