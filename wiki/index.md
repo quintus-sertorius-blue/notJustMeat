@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: wiki-page
 title: Not Just Meat Wiki
 ---
@@ -12,4 +12,4 @@ title: Not Just Meat Wiki
 
 <!-- ## Special Pages
 
-{% include wiki-special-page-list.html %} -->
+{% include wiki-special-page-list.html %} --> -->
